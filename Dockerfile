@@ -1,3 +1,3 @@
-FROM mhsalha/mediaflow-proxy:v2.1.0
+FROM ghcr.io/mhsalha/mediaflow-proxy:latest
 ENV PORT=8888
 EXPOSE 8888
